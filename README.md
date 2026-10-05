@@ -17,8 +17,6 @@ My platform engineering experience has included:
 - Troubleshooting issues across applications, infrastructure, APIs, and deployment workflows
 - Working with developers to validate changes and monitor systems after deployment
 
-My earlier background in QA and data testing also shapes how I approach infrastructure work: I tend to think carefully about validation, failure modes, observability, and how changes can be verified before and after deployment.
-
 ## Technologies I work with
 
 **Cloud & Infrastructure**  
@@ -35,8 +33,6 @@ REST · GraphQL · Postman · SQL · Playwright
 
 ## What I'm working on now
 
-I'm currently expanding my platform engineering skills through a small hands-on project that builds a production-style deployment workflow around a containerized application.
+I'm building a small production-style deployment project using Docker, Kubernetes, Helm, GitHub Actions, and monitoring.
 
-The project brings together technologies I already know—Docker, Kubernetes, Helm, GitHub Actions, and monitoring—while adding **GitOps with Argo CD**. I'm currently focused on learning and implementing the Argo CD portion of that workflow.
-
-My goal is to use the project to practice the full path from application build through deployment and observability, while documenting the architecture and engineering decisions along the way.
+I'm currently expanding that workflow with GitOps and Argo CD, focusing on deployment automation and gaining hands-on experience with a technology adjacent to my production platform work.
